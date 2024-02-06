@@ -3,7 +3,7 @@
 
 
 
- git config --global user.email "rakshandamm123@gmail.com"
+git config --global user.email "rakshandamm123@gmail.com"
 
 git config --global user.name "Rakshanda26"
 
@@ -14,7 +14,7 @@ conda create -n mlproj python=3.8 -y
 
 conda activate mlproj
 
-
+.
 
 Workflows
 
